@@ -1,2 +1,4 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/hubadrian497/script/refs/heads/main/Scriptmorph"))()
-not all support!
+
+
+Support Game:2 Player Villain Tycoon
