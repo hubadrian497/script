@@ -1,19 +1,22 @@
-## Loader Game
+## script 1
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/hubadrian497/script/refs/heads/main/Scriptmorph"))()
 ```
 
-## Loader Game
+## script 2
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/hubadrian497/script/refs/heads/main/adrianhubs"))()
 ```
 
-## Loader Game
+## script 3
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/hubadrian497/script/refs/heads/main/Doodle%20Obby%20script%20zenhub101"))()
 ```
 
-Support Game:2 Player Villain Tycoon
-Support Game:[🎁FREE] Shin Sonic Tapes Morphs
+## Games
+> 2 Player Villain Tycoon script inf money
+> [🎁FREE] Shin Sonic Tapes Morphs
+> not support all games!
 
-Support Game:Doodle Obby
+> Doodle Obby
+> not support all games!
