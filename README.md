@@ -14,7 +14,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/hubadrian497/script/r
 ```
 
 ## Games
-> 2 Player Villain Tycoon script inf money
+> 2 Player Villain Tycoon script inf money script tab
+
 > [🎁FREE] Shin Sonic Tapes Morphs
 > not support all games!
 
