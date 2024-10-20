@@ -21,3 +21,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/hubadrian497/script/r
 
 > Doodle Obby
 > not support all games!
+> banned ip logger
