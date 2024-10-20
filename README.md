@@ -1,15 +1,18 @@
 ## script 1
 ```lua
+--anit ip
 loadstring(game:HttpGet("https://raw.githubusercontent.com/hubadrian497/script/refs/heads/main/Scriptmorph"))()
 ```
 
 ## script 2
 ```lua
+--anit ip
 loadstring(game:HttpGet("https://raw.githubusercontent.com/hubadrian497/script/refs/heads/main/adrianhubs"))()
 ```
 
 ## script 3
 ```lua
+--anit ip
 loadstring(game:HttpGet("https://raw.githubusercontent.com/hubadrian497/script/refs/heads/main/Doodle%20Obby%20script%20zenhub101"))()
 ```
 
@@ -22,4 +25,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/hubadrian497/script/r
 > Doodle Obby
 > not support all games!
 
-> banned ip logger
+> anit ip logger update
