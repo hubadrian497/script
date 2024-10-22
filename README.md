@@ -31,4 +31,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/hubadrian497/script/r
 > Doodle Obby
 > not support all games!
 
+> Block RNG [Event⭐] script tab
+
+
 > anit ip logger update
