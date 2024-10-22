@@ -16,6 +16,12 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/hubadrian497/script/r
 loadstring(game:HttpGet("https://raw.githubusercontent.com/hubadrian497/script/refs/heads/main/Doodle%20Obby%20script%20zenhub101"))()
 ```
 
+## Block RNG script
+```lua
+--anit ip
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hubadrian497/script/refs/heads/main/Block%20RNG%20script"))()
+```
+
 ## Games
 > 2 Player Villain Tycoon script inf money script tab
 
