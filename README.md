@@ -22,6 +22,13 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/hubadrian497/script/r
 loadstring(game:HttpGet("https://raw.githubusercontent.com/hubadrian497/script/refs/heads/main/Block%20RNG%20script"))()
 ```
 
+## P6uls Doors game
+--[[Need Z Keybind]]--
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZenHub103/Zen-Hub-/refs/heads/main/P6uls%20Doors"))()
+
+only Autoexecute
+```
+
 ## Games
 > 2 Player Villain Tycoon script inf money script tab
 
