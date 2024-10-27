@@ -23,6 +23,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/hubadrian497/script/r
 ```
 
 ## P6uls Doors game
+```lua
 --[[Need Z Keybind]]--
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ZenHub103/Zen-Hub-/refs/heads/main/P6uls%20Doors"))()
 
