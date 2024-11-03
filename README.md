@@ -22,10 +22,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/hubadrian497/script/r
 loadstring(game:HttpGet("https://raw.githubusercontent.com/hubadrian497/script/refs/heads/main/Block%20RNG%20script"))()
 ```
 
-## P6uls Doors game
+## P6uls Doors game update 
 ```lua
 --[[Need Z Keybind]]--
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ZenHub103/Zen-Hub-/refs/heads/main/P6uls%20Doors"))()
+_G.Mobile = true
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DarkDoorsKing/SucksHub/refs/heads/main/test"))()
 
 only Autoexecute
 ```
