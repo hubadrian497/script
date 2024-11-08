@@ -1,6 +1,6 @@
 --OXHUB V1.2
 
-wait(5)
+wait(10)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/hubadrian497/script/0b6f8f4d3a0b80e540953c4e6fb702c544c2f1cd/AdrianHub%20v3.9"))()
 
 wait(1)
