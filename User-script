@@ -32,7 +32,7 @@
 // @grant         GM_addStyle
 // @downloadURL   https://raw.githubusercontent.com/bypass-vip/userscript/master/bypass-vip.user.js
 // @homepageURL   https://chat.whatsapp.com/DIzC5vhQmgTGg6Tyv0YBfe
-// @icon          https://files.catbox.moe/rjsf1p.jpeg
+// @icon          https://media.discordapp.net/attachments/1312627369881763970/1313633771240685578/static_1.png?ex=6750d849&is=674f86c9&hm=22aeb146d3e7921a459816a17fefde73cebdb8022c375948c7864395af181aff&
 // @run-at document-idle
 // ==/UserScript==
 (function () {
@@ -151,7 +151,7 @@
             </style>
         </head>
         <body>
-            <img src="https://files.catbox.moe/s261zz.png" alt="BYPASS.XGO1HUB" class="logo">
+            <img src="https://media.discordapp.net/attachments/1312627369881763970/1313634213781831820/static.png?ex=6750d8b2&is=674f8732&hm=e8197214209017b2c92053215fb4a5c6a18b2c296e79d92517690ab24e4d8e07&" alt="BYPASS.XGO1HUB" class="logo">
             <div class="dynamic-text">XGO1BYPASS, BITCH!!!...</div>
             <div class="progress-container">
                 <div class="progress-bar"></div>
