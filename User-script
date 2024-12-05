@@ -186,7 +186,7 @@
 // @match         *://esohasl.net/*
 // @downloadURL   https://raw.githubusercontent.com/bypass-vip/userscript/master/bypass-vip.user.js
 // @homepageURL   https://bypass.vip
-// @icon          https://www.google.com/s2/favicons?domain=bypass.vip&sz=64
+// @icon          https://cdn.discordapp.com/attachments/1312627369881763970/1313633771240685578/static_1.png?ex=6752d289&is=67518109&hm=d7a78f2467040550366aa5d499d47173b4c26e1397c63d5fe803c691b2b300c1&
 // @run-at document-start
 // ==/UserScript==
 
