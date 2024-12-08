@@ -1,7 +1,20 @@
 ## script 1
 ```lua
 --anit ip
-loadstring(game:HttpGet("https://raw.githubusercontent.com/hubadrian497/script/refs/heads/main/Scriptmorph"))()
+
+--[[
+
+___    ___ ________  ________    _____          ___  ___  ___  ___  ________     
+|\  \  /  /|\   ____\|\   __  \  / __  \        |\  \|\  \|\  \|\  \|\   __  \    
+\ \  \/  / | \  \___|\ \  \|\  \|\/_|\  \       \ \  \\\  \ \  \\\  \ \  \|\ /_   
+ \ \    / / \ \  \  __\ \  \\\  \|/ \ \  \       \ \   __  \ \  \\\  \ \   __  \  
+  /     \/   \ \  \|\  \ \  \\\  \   \ \  \       \ \  \ \  \ \  \\\  \ \  \|\  \ 
+ /  /\   \    \ \_______\ \_______\   \ \__\       \ \__\ \__\ \_______\ \_______\
+/__/ /\ __\    \|_______|\|_______|    \|__|        \|__|\|__|\|_______|\|_______|
+|__|/ \|__|                                                                       
+                                                                                  
+                                                                                  ]]--
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hubadrian497/script/refs/heads/main/Scriptmorph1"))()
 ```
 
 ## script 2
