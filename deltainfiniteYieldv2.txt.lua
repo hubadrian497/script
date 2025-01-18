@@ -15,7 +15,7 @@ if not game:IsLoaded() then
 	notLoaded:Destroy()
 end
 
-currentVersion = 'Delta Mobile v2 anit scam'
+currentVersion = 'Delta Mobile v2'
 
 Players = game:GetService("Players")
 
@@ -2826,8 +2826,8 @@ nosaves = false
 local loadedEventData = nil
 function saves()
 	if writefileExploit() then
-		if pcall(function() readfile("IY_FE.iyv2") end) then
-			if readfile("IY_FE.iyv2") ~= nil then
+		if pcall(function() readfile("IY_FE.iy2") end) then
+			if readfile("IY_FE.iy2") ~= nil then
 				local success, response = pcall(function()
 					local json = HttpService:JSONDecode(readfile("IY_FE.iy"))
 					if json.prefix ~= nil then prefix = json.prefix else prefix = ';' end
@@ -2852,19 +2852,19 @@ function saves()
 				if not success then
 					warn("Save Json Error:", response)
 					warn("Overwriting Save File")
-					writefileCooldown("IY_FE.iyv2", defaults)
+					writefileCooldown("IY_FE.iy2", defaults)
 					wait()
 					saves()
 				end
 			else
-				writefileCooldown("IY_FE.iyv2", defaults)
+				writefileCooldown("IY_FE.iy2", defaults)
 				wait()
 				saves()
 			end
 		else
-			writefileCooldown("IY_FE.iyv2", defaults)
+			writefileCooldown("IY_FE.iy2", defaults)
 			wait()
-			if pcall(function() readfile("IY_FE.iyv2") end) then
+			if pcall(function() readfile("IY_FE.iy2") end) then
 				saves()
 			else
 				nosaves = true
